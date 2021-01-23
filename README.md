@@ -26,3 +26,8 @@ The notebook we uploaded only shows results from the last run, since it was too 
 First we evaluated the results of the classifier looking only at the numbers of the pairs claim/evidence correctly classified.
 
 Then we aggregated the pairs referring to the same claim and through a major voting we evaluated the quality of the classification in relation the claim.
+
+### Credits
+Lorenzo Bonetti
+
+Giulio Fortini
